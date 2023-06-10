@@ -8,10 +8,10 @@
 
 ## Overview
 This project is primarily going to focus on how Microsoft's upcoming film department can maximize their returning gross income from any potential movies they decide to make. I want to actively suggest looking at which genre of movies typically perform the best, which actors to include in said movie to entice consumers to purchase tickets and watch the film and recommend an average run time to aim for from start to finish.
-***
+
 ### Business Problem
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-***
+
 ### Data
 
 The data I'll be using from [Box Office Mojo](https://www.boxofficemojo.com/), [IMDB](https://www.imdb.com/) and [TheMovieDB](https://www.themoviedb.org/) respectively contain over 150,000 movie titles, and include information such as a movie's release year, the actor or actors that starred in their respective movies, filming runtime, vote counts, ratings, and domestic gross.
@@ -26,9 +26,11 @@ This project will utilize data cleaning and combining, as well as descriptive an
 Looking at the graph, it seems the best or top selling genre of movie to produce would be one that falls in the Drama genre. Some runner-ups genres to also consider for movie production would also be the Comedy, Action and Adventure genres as well. Or, possibly a combination of the top 4 most successful genres as seen above in possible multiple combinations for a future film.
 
 ![dom_gross_to_genre](./images/dom_gross_to_genre.jpg)
+
 Judging by the graph, the ideal runtime to aim for would be around 120 to 140 minutes (or between 2 hours, or 2 hours and 20 minutes). Alternatively, 130 minutes (2 hours and 10 minutes). Movies in this time frame seem to have the a higher chance of success in terms of domestic gross and compared to other movies and their runtimes.
 
 ![dom_gross_to_runtime](./images/dom_gross_to_runtime.jpg)
+
 In regards to potential and suitable actors, Robert Downey Jr seems to be the best candidate to choose when it comes to picking an actor to get the public's interests. Some other possible actors to consider contracting would also include: Chris Evans, Chris Hemsworth, Mark Ruffalo and Chris Pratt.
 
 ![dom_gross_per_actor](./images/dom_gross_per_actor.jpg)
@@ -65,3 +67,5 @@ For additional info, contact Michael Selleste Cuevas at [kscuevas1297@gmail.com]
 ├── microsoft_movie_success_analysis.pdf
 └── student.ipynb
 ```
+
+*(NOTE: This final project is a restoration of a previous fork that stopped working, hence the lack of commits.)*
