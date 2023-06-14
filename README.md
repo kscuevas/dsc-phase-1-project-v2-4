@@ -49,7 +49,7 @@ Our analysis results now give a better insight as to where Microsoft's new film 
 
 
 # Additional Information
-There is a full and thorough analysis located in this [Jupyter Notebook](./microsoft_movie_analysis.ipynb). There is also a [presentation](./Microsoft_Movie_Success_Analysis.pdf) for any additional reviews needed.
+There is a full and thorough analysis located in this [Jupyter Notebook](./student.ipynb). There is also a [presentation](./microsoft_movie_success_analysis.pdf) for any additional reviews needed.
 For additional info, contact Michael Selleste Cuevas at [kscuevas1297@gmail.com](mailto:kscuevas1297@gmail.com)
 
 
